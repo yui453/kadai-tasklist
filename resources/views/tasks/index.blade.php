@@ -10,7 +10,7 @@
                 <tr>
                     <th>id</th>
                     <th>タスク</th>
-                    <th>進捗状況</th>
+                    <th>進捗</th>
                 </tr>
             </thead>
             <tbody>

@@ -13,7 +13,7 @@
             <td>{{$task->content}}</td>
         </tr>
         <tr>
-            <th>進捗状況</th>
+            <th>進捗</th>
             <td>{{$task->status}}</td>
         </tr>
     </table>
